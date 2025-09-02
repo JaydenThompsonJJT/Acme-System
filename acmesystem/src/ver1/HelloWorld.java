@@ -5,4 +5,8 @@ public class HelloWorld {
 		System.out.println("Hello from Eclipse");
 		System.out.println("John is working locally on his branch");
 	}
+	
+	public void heyNow() {
+		System.out.println("hey now");
+	}
 }
